@@ -88,7 +88,7 @@ During this project, I learned:
 
 Web Development Intern
 
-GitHub: *(Add your GitHub profile link here)*
+GitHub: https://github.com/jayanthimaroju-stack
 
 LinkedIn: https://www.linkedin.com/in/jayanthi-maroju-048a5234b
 
