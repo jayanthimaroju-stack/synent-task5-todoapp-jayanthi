@@ -37,7 +37,6 @@ The To-Do List Web Application is a simple and interactive task management syste
 
 ## 📂 Project Structure
 
-```
 ToDo-App/
 │── index.html
 │── README.md
