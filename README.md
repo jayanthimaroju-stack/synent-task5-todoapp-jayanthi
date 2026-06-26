@@ -42,13 +42,16 @@ ToDo-App/
 │── index.html
 │── README.md
 └── screenshots/
-    ├── home.png
-    ├── add-task.png
-    ├── completed-task.png
-    └── filter-task.png
-```
+    ├──task
 
 ---
+## 📷 Screenshots
+
+### Task Section
+![Task](screenshots/Task.png)
+
+---
+
 
 ## 🚀 How to Run the Project
 
